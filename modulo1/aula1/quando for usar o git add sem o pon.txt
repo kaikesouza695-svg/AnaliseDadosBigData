@@ -1,0 +1,9 @@
+quando for usar o git add sem o ponto e pegar somente o pasta, sempre coloque / para nn travar td. e eh add .
+
+git init
+git clone= url do repo
+git add .
+git commit -m "texto do commit
+git push- levar o arquivo
+git status
+git pull- puxar da nuvem
