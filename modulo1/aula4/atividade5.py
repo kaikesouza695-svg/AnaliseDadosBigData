@@ -1,3 +1,5 @@
+nota_optativa = print(float(+1))
+
 nota1 = float(input("digite sua primeira nota:"))
 nota2= float(input("digite sua segunda nota:"))
 nota3 = float(input("digite sua terceira nota:"))
@@ -13,6 +15,8 @@ if media>= 7:
 elif media >5 <7:
     print("fazer recuperção")
 
-else:
-    media <=5
-    print("reprovado")
+elif media <=5:
+    print("reprovado")  
+
+elif media + nota_optativa :
+    print(media)

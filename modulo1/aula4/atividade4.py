@@ -9,13 +9,13 @@ match codigo:
         print("leste")
     case 4:
         print("oeste")
-    case 5:
+    case 5 | 6:
         print("nordeste")
-    case 6:
+    case 7|8|9:
         print("suldeste")
-    case 7:
+    case 10:
         print("centro-oeste")
-    case 8:
+    case 11:
         print("noroeste")
 
     case _:

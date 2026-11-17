@@ -1,5 +1,3 @@
-import math
-
 
 potencia = 3
 largura = 3

@@ -34,7 +34,7 @@
 #rint(compras_final)
 #compras_final.pop(3) remove pelo indice
 #compras_final.remove("maçã") remove pela primeira ocorrência
-#compracompras_dezembros_final.pop() 
+#compracompras_dezembros_final.pop()  remove sempre o inicio
 #print(compras_dezembro)
 
 #compras_dezembro=compras_final.copy()
@@ -51,6 +51,8 @@
 
 #tupla_compras
 
+#sets:
+
 filmes_final_semana ={
     "o menimo e a graça",
     "as bramquelas",
@@ -66,23 +68,23 @@ filmes_final_semana ={
 
 #dicionarios
 
-#filmes ={
-#    "titanic": [1997, "drama"],
-##    "como treinar o seu dragão": 2010,
- #   "sherk":2001,
-#    "star wars": 1984
-#}
-#print(filmes["titanic"])
+filmes ={
+    "titanic": [1997, "drama/romance"],
+    "como treinar o seu dragão": 2010,
+    "sherk":2001,
+    "star wars": 1984
+}
+#print(filmes["titanic"][1])
 
-nomes_filmes = ["titanic","sherk"]
-ano_lancamento_filmes = [1997,2001]
-genero_filmes = ["drama/romance", "comedia/animação"]
-indicadores_oscar = ["sim","sim"]
+#nomes_filmes = ["titanic","sherk"]
+#ano_lancamento_filmes = [1997,2001]
+#genero_filmes = ["drama/romance", "comedia/animação"]
+#indicadores_oscar = ["sim","sim"]
 
-for objeto in nomes_filmes:
+#for objeto in nomes_filmes:
+ #   print(objeto)
 
-
-
-
-
+filmes["E.T."] = 1992
+filmes["E.T."]= 1982
+gi
 
