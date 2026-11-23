@@ -3,11 +3,11 @@
 #fiz um dicionario  com as informações
 #dei um retuno na primeira variável
 #a primeira variável tem  len(serve pra contar a quantidade de elementos)
-#e uma chave
+#
 #
 #
 
-def abrir_carrinho_difital(banco_dados, email_usuario,
+def abrir_carrinho_digital(banco_dados, email_usuario,
 nickname, assinatura_anual):
     id_pedido = len(banco_dados["assinaturas_transacoes"])
     + 2026001
